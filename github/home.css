@@ -1,0 +1,27 @@
+li {
+	display: inline;
+	background-color: #191970;
+}
+.textnav {
+	background-color: ;
+	font-size: 25px;
+	color: #00FF00;
+	word-spacing: 140px;
+	text-align: center;
+	text-transform: uppercase;
+
+}
+aside {
+	background-color: #00f;
+	color: red;
+	float: right;
+	width: 200px;
+	height: 500px;
+}
+body {
+	background-image:url(Recursosmedia/photos/back.gif);
+	background-repeat: repeat;
+}
+footer {
+	background-color: #9ACD32;
+}
